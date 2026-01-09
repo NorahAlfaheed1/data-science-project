@@ -1,4 +1,4 @@
-# Riyadh Cafes Data Science Project
+# Riyadh Cafes Analysis
 
 ## Overview
 This project presents a complete data science workflow applied to café reviews
